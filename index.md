@@ -4,7 +4,7 @@
 
 ## SQL
 
-### Movie Rental Analysis1
+### Movie Rental Analysis123
 
 Analysis of customer database for a fictional movie rental company. The objective was to analyze rental transaction
 history, customer geographic distribution, and revenue models in order to make strategic recommendations for the company
