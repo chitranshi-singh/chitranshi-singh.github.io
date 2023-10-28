@@ -3,15 +3,15 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <body>
 
-  <b>Data Analyst</b> <br>
-  Berlin, Germany <br> <br>
+   <b>Data Analyst</b> <br>
+   Berlin, Germany <br> <br>
 
 
-  <!-- Trigger/Open The Modal -->
-  <button id="myBtn">About me</button>
+   <!-- Trigger/Open The Modal -->
+   <button id="myBtn">About me</button>
 
-  <!-- The Modal -->
-  <div id="myModal" class="modal">
+   <!-- The Modal -->
+   <div id="myModal" class="modal">
 
       <!-- Modal content -->
       <div class="modal-content">
@@ -31,26 +31,27 @@ description: > # your text below (remove <br> elements if you don't need line br
               I’m passionate to use my expertise to analyze larger data sets and draw insights that can guide business
               decisions and lead to success.</p>
 
-          Tools:
+           Tools:
           <li> SQL </li>
           <li> Excel </li>
           <li> Tableau </li>
           <li> Python </li>
 
       </div>
-  </div>
+   </div>
 
-  <br>
-  <a href="https://www.linkedin.com/in/chitranshi-singh-7848b0245">LinkedIn Profile </a> <br>
-  <a href="https://github.com/chitranshi-singh">GitHub Repository </a> <br>
-  <a href="https://public.tableau.com/app/profile/chitranshi3388">Tableau Public </a> <br>
+   <br>
+   <a href="https://chitranshi-singh.github.io/Chitranshi_Singh_Resume.pdf">Resume </a> <br>
+   <a href="https://www.linkedin.com/in/chitranshi-singh-7848b0245">LinkedIn Profile </a> <br>
+   <a href="https://github.com/chitranshi-singh">GitHub Repository </a> <br>
+   <a href="https://public.tableau.com/app/profile/chitranshi3388">Tableau Public </a> <br>
 
-  <br>
+   <br>
 
-  <a href="mailto:chitranshi14singh@gmail.com">Contact me</a> <br>
+   <a href="mailto:chitranshi14singh@gmail.com">Contact me</a> <br>
 
 
-  <script>
+   <script>
       // Get the modal
       var modal = document.getElementById("myModal");
 
@@ -76,11 +77,11 @@ description: > # your text below (remove <br> elements if you don't need line br
               modal.style.display = "none";
           }
       }
-  </script>
+   </script>
 
-  </body>
+   </body>
 
-  <style>
+   <style>
       /* The Modal (background) */
       .modal {
           display: none; /* Hidden by default */
@@ -118,7 +119,7 @@ description: > # your text below (remove <br> elements if you don't need line br
           text-decoration: none;
           cursor: pointer;
       }
-  </style>
+   </style>
 
 
 remote_theme: pages-themes/minimal@v0.2.0
