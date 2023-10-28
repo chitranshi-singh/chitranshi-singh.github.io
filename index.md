@@ -4,7 +4,7 @@
 
 ## SQL
 
-### Rockbuster Movie Rental
+### Movie Rental Analysis
 
 Analysis of customer database for a fictional movie rental company. The objective was to analyze rental transaction
 history, customer geographic distribution, and revenue models in order to make strategic recommendations for the company
@@ -16,13 +16,13 @@ storyboard.
 
 [Case study](/case_study/Rockbuster_Case_Study.pdf)
 [Tableau storyboard](https://public.tableau.com/app/profile/chitranshi3388/viz/RockbusterProject_Revised/UpdatedStory)it 
-[Github repo](https://github.com/chitranshi-singh/SQL-Rockbuster)
+[Github repo](https://github.com/chitranshi-singh/SQL-Movie-Rental-Analysis)
 
 ---
 
 ## Python
 
-### Hotel Booking Cancellation
+### Hotel Cancellation Analysis
 
 Analysis of hotel booking data for a city hotel and a resort hotel. The objective was to predict the factors which
 contribute to hotel booking cancellations and provide data-driven recommendations to reduce cancellation rates. This
@@ -38,11 +38,11 @@ Tableau
 
 [Tableau storyboard](https://public.tableau.com/app/profile/chitranshi3388/viz/HotelCancellationProject_16939350296940/Story_new)
 
-[Github repo](https://github.com/chitranshi-singh/Hotel-Booking-Cancellation)
+[Github repo](https://github.com/chitranshi-singh/Hotel-Cancellation-Analysis)
 
 ---
 
-### Instacart Market Basket Analysis
+### Instacart Grocery Basket Analysis
 
 Sales analysis of a large and complex data set consisting of more than 30M records for an online grocery store. The
 objective was to derive insights about buying trends and customer demographics in order to target the right customer
@@ -54,7 +54,7 @@ library. Analysis methodology, key results and recommendations were summarized i
 
 [Case study](/case_study/Instacart_Market_Basket_Case_Study.pdf)
 
-[Github repo](https://github.com/chitranshi-singh/Python-Instacart)
+[Github repo](https://github.com/chitranshi-singh/Python-Instacart-Grocery-Basket-Analysis)
 
 [Final report](/case_study/Instacart_Final_Report.xlsx)
 
