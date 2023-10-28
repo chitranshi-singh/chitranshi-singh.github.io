@@ -4,7 +4,7 @@
 
 ## SQL
 
-### Movie Rental Analysis123
+### Movie Rental Analysis
 
 Analysis of customer database for a fictional movie rental company. The objective was to analyze rental transaction
 history, customer geographic distribution, and revenue models in order to make strategic recommendations for the company
@@ -24,7 +24,7 @@ storyboard.
 
 ## Python
 
-### Hotel Booking Cancellation
+### Hotel Cancellation Analysis
 
 Analysis of hotel booking data for a city hotel and a resort hotel. The objective was to predict the factors which
 contribute to hotel booking cancellations and provide data-driven recommendations to reduce cancellation rates. This
@@ -44,7 +44,7 @@ Tableau
 
 ---
 
-### Instacart Market Basket Analysis
+### Instacart Grocery Basket Analysis
 
 Sales analysis of a large and complex data set consisting of more than 30M records for an online grocery store. The
 objective was to derive insights about buying trends and customer demographics in order to target the right customer
@@ -73,7 +73,7 @@ methods such as standard deviation, variance, and correlation were applied to su
 Inferential statistical analysis via hypothesis testing was conducted and the test results were interpreted. Key results
 were curated on an interactive Tableau storyboard.
 
-**Tools**: Python and relevant libraries (Pandas, NumPy, Matplotlib, Seaborn, SciPy), Jupyter Notebook, Excel
+**Tools**: Tableau, Excel
 
 [Case study](/case_study/Influenza_Case_Study.pdf)
 
