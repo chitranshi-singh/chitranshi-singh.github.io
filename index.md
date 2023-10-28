@@ -14,7 +14,7 @@ storyboard.
 
 **Tools**: PostgreSQL, Tableau, Excel
 
-[Case study](/case-study/Rockbuster_Case_Study.pdf)
+[Case study](/case_study/Rockbuster_Case_Study.pdf)
 
 [Tableau storyboard](https://public.tableau.com/app/profile/chitranshi3388/viz/RockbusterProject_Revised/UpdatedStory) 
 
@@ -36,7 +36,7 @@ results were curated on an interactive Tableau storyboard.
 **Tools**: Python and relevant libraries (Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy), Jupyter Notebook,
 Tableau
 
-[Case study](/case-study/Hotel_Cancellation_Case_Study.pdf)
+[Case study](/case_study/Hotel_Cancellation_Case_Study.pdf)
 
 [Tableau storyboard](https://public.tableau.com/app/profile/chitranshi3388/viz/HotelCancellationProject_16939350296940/Story_new)
 
@@ -54,11 +54,11 @@ library. Analysis methodology, key results and recommendations were summarized i
 
 **Tools**: Python and relevant libraries (Pandas, NumPy, Matplotlib, Seaborn, SciPy), Jupyter Notebook, Excel
 
-[Case study](/case-study/Instacart_Market_Basket_Case_Study.pdf)
+[Case study](/case_study/Instacart_Market_Basket_Case_Study.pdf)
 
 [Github repo](https://github.com/chitranshi-singh/Python-Instacart-Grocery-Basket-Analysis)
 
-[Final report](/case-study/Instacart_Final_Report.xlsx)
+[Final report](/case_study/Instacart_Final_Report.xlsx)
 
 ---
 
@@ -75,7 +75,7 @@ were curated on an interactive Tableau storyboard.
 
 **Tools**: Tableau, Excel
 
-[Case study](/case-study/Influenza_Case_Study.pdf)
+[Case study](/case_study/Influenza_Case_Study.pdf)
 
 [Tableau storyboard](https://public.tableau.com/app/profile/chitranshi3388/viz/InfluenzaProject_Final/FinalDataStory)
 
@@ -97,9 +97,9 @@ insights was produced.
 
 **Tools**: Excel
 
-[Case study](/case-study/GameCo_Case_Study.pdf)
+[Case study](/case_study/GameCo_Case_Study.pdf)
 
-[Final presentation](/case-study/GameCo_Final_Presentation.pdf)
+[Final presentation](/case_study/GameCo_Final_Presentation.pdf)
 
 
 ---
