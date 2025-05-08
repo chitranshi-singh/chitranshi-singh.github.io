@@ -16,26 +16,14 @@ description: > # your text below (remove <br> elements if you don't need line br
       <!-- Modal content -->
       <div class="modal-content">
           <span class="close">&times;</span>
-          <p>With a background in Auditing and Reporting in Cybersecurity, I specialize in cleaning and handling large
-              amounts of data, producing insightful reports with strong attention to detail, and presenting them to
-              stakeholders. Having worked with data throughout my career, my transition to a full-time Data Analyst felt
-              like a natural choice.</p>
+          <p>I'm a data-driven analyst with a track record of turning complex data into clear, actionable insights that help businesses grow. I thrive at the intersection of tech and business - translating business needs into effective data solutions and telling compelling stories with numbers. My goal is always to make decision-making smarter, processes more efficient, and impact more measurable.</p>
 
-          <p>
-              Driven by a genuine curiosity and a knack for problem-solving, I enjoy tackling complex problems and turning
-              challenges into opportunities. I am keen about bridging the gap between numbers and real-world implications
-              for the business and bringing value to an organization. Being a confident presenter and an effective
-              collaborator, I have the ability to present complex insights in an accessible and user-friendly way.</p>
 
-          <p>
-              I’m passionate to use my expertise to analyze larger data sets and draw insights that can guide business
-              decisions and lead to success.</p>
-
-          Tools:
-          <li> SQL </li>
-          <li> Excel </li>
-          <li> Tableau </li>
-          <li> Python </li>
+                  Technical Skills:
+                  <li> SQL (BigQuery, PostgreSQL) </li>
+                  <li> Data Visualization: Tableau, Looker </li>
+                  <li> Excel, Google Sheets </li>
+                  <li> Python </li>
 
       </div>
   </div>
